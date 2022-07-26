@@ -33,3 +33,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/NegativeMind/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NegativeMind" />
 </a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NegativeMind)](https://github.com/anuraghazra/github-readme-stats)
