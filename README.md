@@ -18,3 +18,18 @@ Here are some ideas to get you started:
 <a href="https://github.com/NegativeMind/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NegativeMind" />
 </a>
+
+<p align="left">
+  <a href="https://github.com/NegativeMind/NegativeMind/">
+    <img src="https://komarev.com/ghpvc/?username=NegativeMind" alt="NegativeMind" />
+  </a>
+  <a href="http://twitter.com/NegativeMind">
+    <img height="20" src="https://img.shields.io/twitter/follow/NegativeMind?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/NegativeMind">
+    <img height="20" src="https://img.shields.io/github/followers/NegativeMind?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/NegativeMind">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/NegativeMind/posts.svg" />
+  </a>
+</p>
