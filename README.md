@@ -31,7 +31,5 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=NegativeMind&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/NegativeMind/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NegativeMind" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NegativeMind&langs_count=8" />
 </a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NegativeMind&show_icons=true)
