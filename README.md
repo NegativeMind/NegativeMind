@@ -33,4 +33,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/NegativeMind/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NegativeMind&langs_count=8" />
 </a>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NegativeMind&theme=vue)
+<a href="https://github.com/NegativeMind/">
+  <img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=NegativeMind&langs_count=8](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NegativeMind&theme=vue)" />
+</a>
