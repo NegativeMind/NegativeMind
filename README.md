@@ -34,7 +34,6 @@
 	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/NegativeMind/NegativeMind/output-3d-contrib/day.svg" />
 	</picture>
 </p>　
-
 <p align="left">
 <picture>
   <source media="(prefers-color-scheme: light)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
@@ -57,12 +56,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 <a href="https://github.com/NegativeMind/">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=NegativeMind&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/NegativeMind/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NegativeMind&langs_count=8&layout=compact" />
 </a>
+-->
 <a href="https://github.com/NegativeMind/">
   <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NegativeMind&theme=vue" />
 </a>
