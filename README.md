@@ -2,9 +2,6 @@
   <a href="https://github.com/NegativeMind/NegativeMind/">
     <img src="https://komarev.com/ghpvc/?username=NegativeMind" alt="NegativeMind" />
   </a>
-  <a href="http://twitter.com/NegativeMind">
-    <img height="20" src="https://img.shields.io/twitter/follow/NegativeMind?label=Twitter&logo=twitter&style=flat" />
-  </a>
   <a href="https://github.com/NegativeMind">
     <img height="20" src="https://img.shields.io/github/followers/NegativeMind?label=follow&logo=github&style=flat" />
   </a>
