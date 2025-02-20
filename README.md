@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=NegativeMind&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/NegativeMind/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NegativeMind&langs_count=8" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NegativeMind&langs_count=8&layout=compact" />
 </a>
 <a href="https://github.com/NegativeMind/">
   <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NegativeMind&theme=vue" />
