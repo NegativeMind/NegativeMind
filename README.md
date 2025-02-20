@@ -41,9 +41,6 @@
  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/username/username/output-3d-contrib/day.svg" />
 </picture>
 
-
-
-
 <!--
 **NegativeMind/NegativeMind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -64,6 +61,7 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NegativeMind&langs_count=8&layout=compact" />
 </a>
 -->
+
 <a href="https://github.com/NegativeMind/">
   <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NegativeMind&theme=vue" />
 </a>
