@@ -5,9 +5,6 @@
   <a href="https://github.com/NegativeMind">
     <img height="20" src="https://img.shields.io/github/followers/NegativeMind?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/NegativeMind">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/NegativeMind/posts.svg" />
-  </a>
 </p>
 
 ## Profile
