@@ -12,7 +12,7 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/NegativeMind/posts.svg" />
   </a>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={NegativeMind}
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NegativeMind
 )](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
