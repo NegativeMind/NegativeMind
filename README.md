@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/NegativeMind/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NegativeMind&langs_count=8&layout=compact" />
 </a>
+https://qiita.com/soranjiro/items/f34a81919b3cd2b5668e
 -->
 
 <a href="https://github.com/NegativeMind/">
