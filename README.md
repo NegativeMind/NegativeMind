@@ -34,4 +34,4 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NegativeMind&theme=vue" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NegativeMind)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NegativeMind&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
