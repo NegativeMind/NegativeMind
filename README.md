@@ -33,14 +33,6 @@
  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/username/username/output-3d-contrib/day.svg" />
 </picture>
 </p>
-
-</p>
-<p align="left">
-<a href="https://github.com/NegativeMind/">
-  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NegativeMind&theme=github_dark" />
-</a>
-</p>
-
 <!--
 **NegativeMind/NegativeMind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
