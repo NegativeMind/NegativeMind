@@ -23,7 +23,7 @@
 </p>
 <p align="left">
 <a href="https://github.com/NegativeMind/">
-  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NegativeMind&theme=vue" />
+  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NegativeMind&theme=github_dark" />
 </a>
 </p>
 <p align="left">
@@ -55,11 +55,12 @@ Here are some ideas to get you started:
 https://qiita.com/soranjiro/items/f34a81919b3cd2b5668e
 -->
 
-
+<!--
 <p align="left" >
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
 	  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" width="700" />
 	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/NegativeMind/NegativeMind/output-3d-contrib/day.svg" />
 	</picture>
-</p>　
+</p>
+-->
