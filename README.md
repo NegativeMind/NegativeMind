@@ -47,6 +47,7 @@
   </a>
 </p>
 
+<!--
 <p align="left">
   <a href="https://github.com/NegativeMind/">
     <img height="180" alt="Repositories per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NegativeMind&theme=github_dark" />
@@ -55,6 +56,7 @@
     <img height="180" alt="Most committed languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NegativeMind&theme=github_dark" />
   </a>
 </p>
+-->
 
 <p align="left">
   <a href="https://github.com/NegativeMind/">
