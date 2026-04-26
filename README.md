@@ -33,13 +33,6 @@
 -->
 
 <p align="left">
-  <a href="https://github.com/screw-hand/github-profile-trophy">
-    <img alt="GitHub trophies" src="https://github-profile-trophy.screw-hand.vercel.app/?username=NegativeMind&theme=onedark&no-frame=true&row=1&column=7" />
-  </a>
-</p>
-
-
-<p align="left">
   <a href="https://github.com/NegativeMind/">
     <img height="180" alt="GitHub profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NegativeMind&theme=github_dark" />
   </a>
@@ -62,6 +55,12 @@
   </a>
   <a href="https://github.com/NegativeMind/">
     <img height="180" alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NegativeMind&theme=github_dark&utcOffset=9" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/screw-hand/github-profile-trophy">
+    <img alt="GitHub trophies" src="https://github-profile-trophy.screw-hand.vercel.app/?username=NegativeMind&theme=onedark&no-frame=true&row=1&column=7" />
   </a>
 </p>
 
