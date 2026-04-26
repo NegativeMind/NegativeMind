@@ -21,6 +21,8 @@
     <img width="400" alt="GitHub language and follow-up metrics" src="https://raw.githubusercontent.com/NegativeMind/NegativeMind/main/output/details.svg" />
   </picture>
 </p>
+
+<!--
 <p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-rainbow.svg" />
@@ -28,6 +30,7 @@
     <img width="700" alt="3D GitHub contribution chart" src="https://raw.githubusercontent.com/NegativeMind/NegativeMind/main/profile-3d-contrib/profile-season-animate.svg" />
   </picture>
 </p>
+-->
 
 <p align="left">
   <picture>
@@ -36,6 +39,7 @@
     <img width="400" alt="GitHub achievements" src="https://raw.githubusercontent.com/NegativeMind/NegativeMind/main/output/metrics.plugin.achievements.compact.svg" />
   </picture>
 </p>
+
 
 <p align="left">
   <a href="https://github.com/NegativeMind/">
