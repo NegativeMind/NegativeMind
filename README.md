@@ -33,8 +33,8 @@
 -->
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=NegativeMind&theme=onedark&no-frame=true&row=1&column=7" />
+  <a href="https://github.com/screw-hand/github-profile-trophy">
+    <img alt="GitHub trophies" src="https://github-profile-trophy.screw-hand.vercel.app/?username=NegativeMind&theme=onedark&no-frame=true&row=1&column=7" />
   </a>
 </p>
 
