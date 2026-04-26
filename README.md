@@ -33,11 +33,9 @@
 -->
 
 <p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="output/metrics.plugin.achievements.compact.svg" />
-    <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.achievements.compact.svg" />
-    <img width="400" alt="GitHub achievements" src="https://raw.githubusercontent.com/NegativeMind/NegativeMind/main/output/metrics.plugin.achievements.compact.svg" />
-  </picture>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=NegativeMind&theme=onedark&no-frame=true&row=1&column=7" />
+  </a>
 </p>
 
 
