@@ -11,19 +11,19 @@
 
 <p align="left">
   <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="400" />
-	<source media="(prefers-color-scheme: light)" srcset="output/metrics.base.svg" width="400" />
-	<img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/NegativeMind/NegativeMind/output-3d-contrib/day.svg" />
+        <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" />
+	<source media="(prefers-color-scheme: light)" srcset="output/metrics.base.svg" />
+	<img width="400" alt="GitHub profile metrics" src="https://raw.githubusercontent.com/NegativeMind/NegativeMind/main/output/metrics.base.svg" />
   </picture>
   <picture>
-   	<source media="(prefers-color-scheme: dark)"  srcset="output/details.svg" width="400" />
-	<source media="(prefers-color-scheme: light)" srcset="output/details.svg" width="400" />
-	<img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/NegativeMind/NegativeMind/output-3d-contrib/day.svg" />
+	<source media="(prefers-color-scheme: dark)"  srcset="output/details.svg" />
+	<source media="(prefers-color-scheme: light)" srcset="output/details.svg" />
+	<img width="400" alt="GitHub language and follow-up metrics" src="https://raw.githubusercontent.com/NegativeMind/NegativeMind/main/output/details.svg" />
   </picture>
 </p>
 <p align="left">
 <a href="https://github.com/NegativeMind/">
-  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NegativeMind&theme=github_dark" />
+  <img align="left" alt="GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NegativeMind&theme=github_dark" />
 </a>
 </p>
 
